@@ -1,0 +1,1 @@
+This repository is a test for trying GitHub for Mac.
